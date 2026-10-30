@@ -34,7 +34,7 @@ updates:
       time: "06:00"
     open-pull-requests-limit: 5
     assignees:
-      - "hemonserrat"
+      - "bitpilot26"
     commit-message:
       prefix: "ci"
       include: "scope"
